@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **C++ (at university), AI, React and Chinese**
 
-- 👯 I’m looking to collaborate on **web apps built with React, Flask and Node**
+- 👯 I’m looking to collaborate on **web apps and education tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mertbrks](https://github.com/mertbrks)
 
-- 💬 Ask me about **math, Python/Flask, React and event organization**
+- 💬 Ask me about **math, Python, C and event organization**
 
 - 📫 How to reach me **mertbrks@gmail.com**
 
