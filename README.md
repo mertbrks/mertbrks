@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **N-R-Y: weather-based venue recommendation app**
 
-- 🌱 I’m currently learning **C++ (at university), AI, React, TypeScript and Chinese**
+- 🌱 I’m currently learning **C++ (at university), AI, React and Chinese**
 
 - 👯 I’m looking to collaborate on **web apps built with React, Flask and Node**
 
