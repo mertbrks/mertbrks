@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert Berraksu</h1>
+<h1 align="center">Hi, I'm Mert Berraksu</h1>
 <h3 align="center">Mathematical Engineering student at Yıldız Technical University · math tutor · building web apps with AI</h3>
 
 
